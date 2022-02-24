@@ -1,7 +1,7 @@
 {
 	"editor.guides.indentation": true,
 	"editor.renderWhitespace": "all",
-	"[typescript][vue][json][jsonc][html]": {
+	"[typescript][vue][json][jsonc][html][javascriptreact][javascript][typescriptreact]": {
 		"editor.formatOnSave": true,
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	}
